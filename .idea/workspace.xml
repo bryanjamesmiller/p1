@@ -32,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3114754">
-              <caret line="36" column="145" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+            <state vertical-scroll-proportion="0.32786885">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,7 +115,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1315" />
+    <option name="width" value="1303" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -141,8 +141,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,13 +161,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="configurable.group.editor" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../p3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="resub&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/prelogin/resubscribe.blade.php&#10;usercon&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/UserController.php&#10;billable&#9;FILE&#9;file://C:/xampp/htdocs/p1/vendor/laravel/cashier/src/Laravel/Cashier/Billable.php&#10;register&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/prelogin/register.blade.php&#10;resubs&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/prelogin/resubscribe.blade.php&#10;user&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Models/User.php&#10;env&#9;FILE&#9;file://C:/xampp/htdocs/p1/.env&#10;css&#9;FILE&#9;file://C:/xampp/htdocs/p1/public/css/after_bootstrap.css&#10;userc&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/UserController.php&#10;remindersc&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/RemindersController.php&#10;routes&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/routes.php&#10;usercont&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/UserController.php&#10;course.php&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Models/Course.php&#10;review&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/course_review_edit.blade.php&#10;course&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Models/Course.php&#10;app&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Providers/AppServiceProvider.php&#10;course_tracking&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/20152016/alm/course_tracking_alm.blade.php&#10;tracking&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/20152016/course_tracking.blade.php&#10;route&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/routes.php&#10;userco&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/UserController.php&#10;filter&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/filters.php&#10;coursecontr&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Http/Controllers/CourseController.php&#10;require_once '&#9;null&#9;null&#10;5-10&#9;null&#9;null&#10;usercontroll&#9;null&#9;null&#10;composer&#9;FILE&#9;file://C:/xampp/htdocs/p1/composer.json&#10;connection.php&#9;FILE&#9;file://C:/xampp/htdocs/p1/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php&#10;edit_prepopu&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/alm/course_edit_prepopulated_forms_alm.blade.php&#10;edit_prepop&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/course_edit/course_edit_prepopulated_forms.blade.php&#10;course_edit_prepop&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/course_edit/course_edit_prepopulated_forms.blade.php&#10;edit&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/course_successfully_edited.blade.php&#10;2015&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/constants/constants20152016.php&#10;flash_messa&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/_base_components/flash_message.blade.php&#10;_base&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/alm/_base_bootstrap_alm.blade.php&#10;reviewcon&#9;null&#9;null&#10;show_reviews&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/show_reviews.blade.php&#10; ClientContext&#9;null&#9;null&#10;create_and_edit&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/20152016/includes/create_and_edit_js.blade.php&#10;create_and_edit_j&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/20152016/alm/create_and_edit_js_alm.blade.php&#10;create&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/alm/create_and_edit_js_alm.blade.php&#10;create_and&#9;null&#9;null&#10;614db4b3c0f3a3f323f8e3d7a3dfc234&#9;FILE&#9;file://C:/xampp/htdocs/p1/storage/framework/views/614db4b3c0f3a3f323f8e3d7a3dfc234&#10;compo&#9;FILE&#9;file://C:/xampp/htdocs/p1/composer.json&#10;output_all&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/track_plan_timelines/output_all_hes_courses.blade.php&#10;header&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/_base_components/html_header.blade.php&#10;user.php&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/Models/User.php&#10;const&#9;FILE&#9;file://C:/xampp/htdocs/p1/app/constants2013andearlier.php&#10;facade.ph&#9;FILE&#9;file://C:/xampp/htdocs/p1/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php&#10;remind.b&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/password/remind.blade.php&#10;login&#9;FILE&#9;file://C:/xampp/htdocs/p1/resources/views/prelogin/login.blade.php" />
     <property name="FullScreen" value="false" />
@@ -246,10 +246,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1315" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1303" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27020785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26961926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -289,6 +289,14 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="145" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
@@ -312,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3114754">
-          <caret line="36" column="145" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+        <state vertical-scroll-proportion="0.32786885">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
