@@ -4,7 +4,7 @@ p1
 Problem Set 1 for CSCI E-15
 
 ##Live URL of my P1:  
-http://p1.bryanmiller.me/
+http://p1.grat.xyz/
 
 ##Description of the project:  
 This is just a basic website with links to my future problem set web pages and github account links.  
